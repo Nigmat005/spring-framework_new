@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="HR" uuid="7d4c3995-ae8b-41d4-9050-187bd8455c9a">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@18.210.18.44:1521:XE</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Spartan" uuid="3182d58d-a11b-41aa-9623-a27c27d68b91">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@18.210.18.44:1521:XE</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="library1_DB" uuid="6fe67e93-acfc-48b9-a854-e2f52e22b474">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://18.233.97.71:3306/library1</jdbc-url>
+    </data-source>
+  </component>
+</project>
